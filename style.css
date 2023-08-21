@@ -1,0 +1,373 @@
+:root
+{
+    --priamry: #DCC1AB;
+}
+
+
+
+
+
+*
+{
+    background-color: white;
+    font-family: 'Inter';
+    
+}
+
+nav
+{
+    min-height: 76px;
+    font-family: 'Inter';
+    
+}
+
+.navbar
+{
+    padding: 0px;
+}
+
+.nav-link
+{
+    cursor: default;
+}
+
+.nav-link:hover
+{
+    cursor: pointer;
+}
+
+.nav-item
+{
+    font-size: 95%;
+    font-family: 'Inter'; 
+ 
+}
+
+#carousel
+{
+    background-color: #DCC1AB;
+    padding-left: 20rem; 
+}
+
+
+
+.buttons 
+{
+    background-color: #DCC1AB;
+    color: white;
+}
+
+
+
+.text-label
+{
+    padding-left: 50px;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ .text-hero-bold
+{
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 90%;
+}
+
+.text-hero-regular 
+{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+
+
+#FakeButtonOne
+{
+    background-color: #1B5B31;
+    border: none;
+    color: #F5F0EC;
+}
+
+#FakeButtonTwo
+{
+    
+    border: 1px #1B5B31 solid;
+    color: #1B5B31;
+}
+
+#FakeButtonOne:hover
+{
+    background-color: #174d2a;
+    border: none;
+}
+
+#FakeButtonTwo:hover
+{
+    
+    border: 1px #174d2a solid;
+    color: #174d2a;
+}
+
+.copy
+{
+    margin: auto;
+
+}
+.text
+{
+    background-color: #DCC1AB;
+    font-size: 120%;
+    padding-top: 5rem;
+}
+
+#contentTwo
+{
+    
+    height: 737px; 
+}
+
+#cardBlock
+{
+    padding-bottom: 96px;
+    background-color: #F5F0EC;
+}
+
+#copyCardBox
+{
+    background-color: #F5F0EC;
+}
+
+#cardBlockContainer
+{
+    background-color: #F5F0EC;
+}
+
+#cardBoxText
+{
+    background-color: #F5F0EC;
+}
+
+#cardBoxTextOf
+{
+    background-color: #F5F0EC;
+    color: #1B5B31; 
+    font-size: 70%;
+    font-family: 'Inter';
+    padding-left: 1rem;
+
+}
+
+#cardBoxTextLabel
+{
+    background-color: #F5F0EC;
+}
+
+#cardBoxTextLabel i
+{
+    background-color: #F5F0EC;
+}
+
+#cardBoxTextCont
+{
+    background-color: #F5F0EC;
+}
+
+#Cards
+{
+    background-color: #F5F0EC;
+}
+
+#Card
+{
+    background-color: #F5F0EC;
+}
+
+#CardsRow
+{
+    background-color: #F5F0EC;
+}
+
+#iconCard
+{
+    font-size: 260%;
+    padding-bottom: 20px; 
+}
+
+.card
+{
+    border-radius: 10%;
+}
+
+.card-body h3
+{
+    font-family: 'Montserrat';
+    padding-bottom: 1rem;
+}
+
+.card-body p
+{
+    font-family: 'Inter';
+    padding-bottom: 3rem;
+}
+
+.card-body a
+{
+    font-family: 'Inter';
+    color: #1B5B31;
+}
+
+.card-body a:hover
+{
+    font-family: 'Inter';
+    color: #174d2a;
+}
+
+#textHeroCompany
+{
+    background-color: #1B5B31;
+    color:#F5F0EC;
+    font-size: 70%;
+    font-family: 'Inter';
+    padding-left: 3rem;
+
+}
+
+#textLabelCompany
+{
+    background-color: #1B5B31;
+    color:#F5F0EC;
+
+}
+
+#textHeroBoldCompany
+{
+    background-color: #1B5B31;
+    color:#F5F0EC;
+
+}
+
+#buttonComp
+{
+    color: #F5F0EC;
+    margin-left: 3rem;
+    background-color: #1B5B31;
+}
+
+#galleryTextHero
+{
+    color: #1B5B31;
+    font-size: 70%;
+    font-family: 'Inter';
+    padding-left: 3rem;
+}
+
+#galleryTextLabel
+{
+    color: black;
+    
+}
+
+#photoGallery
+{
+    display: grid;
+    grid-template-rows: 0fr;
+
+}
+
+#photoGallery > div
+{
+    overflow: hidden;
+
+}
+
+input {
+    outline: none;
+  }
+  input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 100%;
+  }
+  input::-webkit-search-decoration,
+  
+  input[type=search] {
+    background: #FFFFFF url('icons/search.svg') no-repeat 9px center;
+    border: solid 1px #FFFFFF;
+    padding: 7px 9px 7px 17px;
+    width: 55px;
+  
+    border-radius: 1em;
+  
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+  }
+  input[type=search]:focus {
+    width: 170px;
+    background-color: #fff;
+  
+    -webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+    -moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+    box-shadow: 0 0 5px rgba(109,207,246,.5);
+  }
+  
+  #demo-2 input[type=search] {
+    width: 15px;
+    padding-left: 10px;
+    color: transparent;
+    cursor: pointer;
+  }
+  #demo-2 input[type=search]:hover {
+    background-color: #fff;
+  }
+  #demo-2 input[type=search]:focus {
+    width: 200px;
+    padding-left: 32px;
+    color: #000;
+    background-color: #fff;
+    cursor: auto;
+    color: black;
+  }
+  #demo-2 input:-moz-placeholder {
+    color: transparent;
+  }
+  #demo-2 input::-webkit-input-placeholder {
+    color: transparent;
+  }
+
+  
+  @media screen and (max-width:395px)
+  {
+    #buttonOne
+    {
+        padding-left: 3rem;
+        padding-right: 3rem;
+        font-size: 70%;
+    }
+
+  }
+
+  @media screen and (max-width:395px)
+  {
+
+    #ls
+    {
+        padding-top: 5vh; 
+        padding-bottom: 40vh;
+
+    }
+
+  }
+
+
+
+
+
+  
+ 
+
+
+
