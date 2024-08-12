@@ -1,0 +1,64 @@
+// font family
+
+$font-family-sans-serif: 'Open Sans', sans-serif;
+
+// colours 
+
+$light: #ECECEC;
+$dark: #000000b3;
+
+// font weights
+
+$font-weight-medium: 450 !default;
+
+$display-font-sizes: (
+  1: 5rem,
+  2: 4.5rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem,
+  7: 2.0rem,
+  8: 1.5rem,
+  9: 1.25rem,
+  10: 1.1rem,
+) !default;
+
+
+// spacers
+
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 6,
+  7: $spacer * 12,
+) !default;
+
+// position values
+
+$position-values: (
+  0: 0,
+  50: 50%,
+  100: 100%,
+  25: 25%,
+  75: 75%,
+  10: 10%,
+  20: 20%,
+) !default;
+
+// carousel
+
+$carousel-indicator-spacer:          0.25rem;
+$carousel-indicator-opacity:         .20;
+$carousel-indicator-active-bg:       $dark;
+$carousel-indicator-active-opacity:  .70;
+
+
+// ALWAYS ABOVE THIS @import
+
+@import '../node_modules/bootstrap//scss//bootstrap.scss';
