@@ -1,0 +1,87 @@
+.header
+{
+    // use this valuse when using background image to cover all the space + navbar
+    // background: url(../images/css-pattern-by-magicpattern.png) center center no-repeat;
+    // background-size: cover;
+
+    // background: var(--bs-primary);
+
+    // use this if you want to use SVG as a background 
+    // background:
+    //   conic-gradient(from -116.36deg at 25% 75%,#47d3ff 52.72deg,#0000 0), conic-gradient(from -116.36deg at 25% 75%,#47d3ff 52.72deg,#0000 0) calc(3*100px) calc(100px/2),
+    //   conic-gradient(from   63.43deg at 75% 75%,#47d3ff 52.72deg,#0000 0), conic-gradient(from   63.43deg at 75% 75%,#47d3ff 52.72deg,#0000 0) calc(3*100px) calc(100px/2),
+    //   conic-gradient(
+    //     #adafff   63.43deg ,#474bff 0 116.36deg,
+    //     #adafff 0 180deg   ,#474bff 0 243.43deg,
+    //     #adafff 0 296.15deg,#474bff 0);
+    // background-size: 200px 100px;
+
+    background-color: #4492d1;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #4492d1 40px ), repeating-linear-gradient( #0E295455, #0E2954 );
+
+
+}
+
+.navbar
+{
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar-sticky
+{
+    opacity: 0.9;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#wave
+{
+    background-color: white;
+}
+
+.modal-dialog
+{
+    max-width: 1040px;
+}
+
+.download
+{
+    background-color: var(--bs-dark);
+}
+
+.map iframe
+{
+    left: 0;
+    top: 0;
+    height: 400px;
+    width: 100%;
+    border: none;
+}
+
+@media(max-width: 991px)
+{
+    .navbar
+    {
+        background-color: var(--bs-dark);
+    }
+
+
+}
+
+@media(max-width: 991px)
+{
+    .hero .image-container
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero .text-container
+    {
+        text-align: center;
+    }
+}
+
+
+
+

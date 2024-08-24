@@ -1,0 +1,65 @@
+<svg width="560" height="685" viewBox="0 0 560 685" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="393.32" y="476.5" width="151" height="14" rx="2.5" stroke="black" stroke-width="3"/>
+<line x1="509.82" y1="444.5" x2="543.82" y2="444.5" stroke="black" stroke-width="3"/>
+<line x1="494.82" y1="444.5" x2="504.82" y2="444.5" stroke="black" stroke-width="3"/>
+<line x1="468.82" y1="444.5" x2="491.82" y2="444.5" stroke="black" stroke-width="3"/>
+<line x1="468.82" y1="423.5" x2="512.82" y2="423.5" stroke="black" stroke-width="3"/>
+<line x1="516.82" y1="423.5" x2="539.82" y2="423.5" stroke="black" stroke-width="3"/>
+<line x1="472.82" y1="434.5" x2="516.82" y2="434.5" stroke="black" stroke-width="3"/>
+<line x1="521.82" y1="434.5" x2="531.82" y2="434.5" stroke="black" stroke-width="3"/>
+<line x1="509.82" y1="413.5" x2="543.82" y2="413.5" stroke="black" stroke-width="3"/>
+<line x1="494.82" y1="413.5" x2="504.82" y2="413.5" stroke="black" stroke-width="3"/>
+<line x1="468.82" y1="413.5" x2="491.82" y2="413.5" stroke="black" stroke-width="3"/>
+<line x1="468.82" y1="392.5" x2="512.82" y2="392.5" stroke="black" stroke-width="3"/>
+<line x1="516.82" y1="392.5" x2="539.82" y2="392.5" stroke="black" stroke-width="3"/>
+<line x1="472.82" y1="403.5" x2="516.82" y2="403.5" stroke="black" stroke-width="3"/>
+<line x1="521.82" y1="403.5" x2="531.82" y2="403.5" stroke="black" stroke-width="3"/>
+<line x1="432.82" y1="346.5" x2="466.82" y2="346.5" stroke="black" stroke-width="3"/>
+<line x1="417.82" y1="346.5" x2="427.82" y2="346.5" stroke="black" stroke-width="3"/>
+<line x1="391.82" y1="346.5" x2="414.82" y2="346.5" stroke="black" stroke-width="3"/>
+<line x1="391.82" y1="325.5" x2="435.82" y2="325.5" stroke="black" stroke-width="3"/>
+<line x1="439.82" y1="325.5" x2="462.82" y2="325.5" stroke="black" stroke-width="3"/>
+<line x1="395.82" y1="336.5" x2="439.82" y2="336.5" stroke="black" stroke-width="3"/>
+<line x1="444.82" y1="336.5" x2="454.82" y2="336.5" stroke="black" stroke-width="3"/>
+<line x1="432.82" y1="315.5" x2="466.82" y2="315.5" stroke="black" stroke-width="3"/>
+<line x1="417.82" y1="315.5" x2="427.82" y2="315.5" stroke="black" stroke-width="3"/>
+<line x1="391.82" y1="315.5" x2="414.82" y2="315.5" stroke="black" stroke-width="3"/>
+<line x1="391.82" y1="294.5" x2="435.82" y2="294.5" stroke="black" stroke-width="3"/>
+<line x1="439.82" y1="294.5" x2="462.82" y2="294.5" stroke="black" stroke-width="3"/>
+<line x1="395.82" y1="305.5" x2="439.82" y2="305.5" stroke="black" stroke-width="3"/>
+<line x1="444.82" y1="305.5" x2="454.82" y2="305.5" stroke="black" stroke-width="3"/>
+<rect x="454.491" y="442.873" width="26.2818" height="26.2818" rx="1" transform="rotate(155 454.491 442.873)" stroke="black" stroke-width="2"/>
+<circle cx="401.82" cy="423.309" r="9" transform="rotate(-180 401.82 423.309)" stroke="black" stroke-width="2"/>
+<path d="M427.857 383.39L437.039 408.618L410.6 403.956L427.857 383.39Z" stroke="black" stroke-width="2"/>
+<rect x="479.149" y="296.436" width="26.2818" height="26.2818" rx="1" transform="rotate(-25 479.149 296.436)" stroke="black" stroke-width="2"/>
+<circle cx="531.82" cy="316" r="9" stroke="black" stroke-width="2"/>
+<path d="M505.783 355.919L496.601 330.691L523.04 335.353L505.783 355.919Z" stroke="black" stroke-width="2"/>
+<rect x="393.82" y="233" width="150" height="26" rx="6" stroke="black" stroke-width="4"/>
+<rect x="379.82" y="501" width="284" height="177" rx="7" transform="rotate(-90 379.82 501)" stroke="black" stroke-width="6"/>
+<rect x="3.44964" y="3.69696" width="284" height="177" rx="7" stroke="black" stroke-width="6"/>
+<rect x="129.864" y="183.695" width="30" height="34" fill="black"/>
+<path d="M83.8199 222C83.8199 219.239 86.0585 217 88.8199 217H201.82C204.581 217 206.82 219.239 206.82 222V227H83.8199V222Z" fill="black"/>
+<ellipse cx="146.357" cy="16.7008" rx="2.5" ry="2" fill="black"/>
+<path d="M74.6111 101.455V96L118.52 73.6364V82.3636L84.8384 98.5909L85.1111 98.0455V99.4091L84.8384 98.8636L118.52 115.091V123.818L74.6111 101.455ZM160.256 52.9091L137.756 136.5H130.392L152.892 52.9091H160.256ZM216.02 101.455L172.111 123.818V115.091L205.793 98.8636L205.52 99.4091V98.0455L205.793 98.5909L172.111 82.3636V73.6364L216.02 96V101.455Z" fill="black"/>
+<ellipse cx="101.688" cy="588.485" rx="17.5" ry="22.5" transform="rotate(40 101.688 588.485)" fill="black"/>
+<line x1="117.32" y1="584" x2="117.32" y2="504" stroke="black" stroke-width="7"/>
+<ellipse cx="29.6884" cy="604.485" rx="17.5" ry="22.5" transform="rotate(40 29.6884 604.485)" fill="black"/>
+<line x1="45.3199" y1="600" x2="45.3199" y2="520" stroke="black" stroke-width="7"/>
+<line x1="47.7129" y1="527.512" x2="120.713" y2="511.512" stroke="black"/>
+<line x1="41.7129" y1="520.512" x2="114.713" y2="504.512" stroke="black"/>
+<rect x="43.8199" y="519.974" width="72.9856" height="7.79449" transform="rotate(-12.2974 43.8199 519.974)" fill="black"/>
+<ellipse cx="220.688" cy="647.485" rx="17.5" ry="22.5" transform="rotate(40 220.688 647.485)" fill="black"/>
+<line x1="236.32" y1="643" x2="236.32" y2="563" stroke="black" stroke-width="7"/>
+<ellipse cx="148.688" cy="663.485" rx="17.5" ry="22.5" transform="rotate(40 148.688 663.485)" fill="black"/>
+<line x1="164.32" y1="659" x2="164.32" y2="579" stroke="black" stroke-width="7"/>
+<line x1="166.713" y1="586.512" x2="239.713" y2="570.512" stroke="black"/>
+<line x1="160.713" y1="579.512" x2="233.713" y2="563.512" stroke="black"/>
+<rect x="162.82" y="578.974" width="72.9856" height="7.79449" transform="rotate(-12.2974 162.82 578.974)" fill="black"/>
+<ellipse cx="252.688" cy="509.485" rx="17.5" ry="22.5" transform="rotate(40 252.688 509.485)" fill="black"/>
+<line x1="268.32" y1="505" x2="268.32" y2="425" stroke="black" stroke-width="7"/>
+<ellipse cx="180.688" cy="525.485" rx="17.5" ry="22.5" transform="rotate(40 180.688 525.485)" fill="black"/>
+<line x1="196.32" y1="521" x2="196.32" y2="441" stroke="black" stroke-width="7"/>
+<line x1="198.713" y1="448.512" x2="271.713" y2="432.512" stroke="black"/>
+<line x1="192.713" y1="441.512" x2="265.713" y2="425.512" stroke="black"/>
+<rect x="194.82" y="440.974" width="72.9856" height="7.79449" transform="rotate(-12.2974 194.82 440.974)" fill="black"/>
+</svg>

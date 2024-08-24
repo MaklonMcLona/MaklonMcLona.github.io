@@ -1,0 +1,82 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+#logoText
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 140%;
+    letter-spacing: 0.25rem;
+    transition: 0.3s; 
+}
+
+#logoText:hover
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.cItem
+{
+    height: 65vh;
+    position: relative;
+    
+}
+
+.cImage
+{
+    width: 100%;
+    object-fit: cover;
+}
+
+.gradient
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to top, black, transparent);
+}
+
+.shadowImage
+{
+    box-shadow: 2px 2px 4px #000000;
+}
+
+.discoverCard
+{
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center; 
+    background-size: cover;
+    height: 250px;
+}
+
+.instagram-media
+{
+    margin:0 auto!important;
+}
+
+.footerLink
+{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.bgimage 
+{
+    width:100%;
+    height:500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    /* background-attachment: fixed; */
+  }
+  
